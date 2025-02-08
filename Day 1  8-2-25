@@ -4,8 +4,15 @@ Content - Input from the user
 Github:
 To upload the code
 To go to the previous version - Version Control Tool(VCT)
+To merge the code 
+We can delete, and change access of the repository in Settings.
 
 Repository - Project name
 Create a file in branch name and start coding 
+
+Git (Standalone Application) - Used to execute git commands 
+Github (Web application) - Used to store the code
+GUL (Graphical User Interface) - Actions by dragging or uploading
+CLI (Command line Interface) - Actions by commands
 
 
